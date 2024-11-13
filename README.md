@@ -3,7 +3,9 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+👋 Welcome to my GitHub portfolio! I am currently pursuing a bachelor's degree in Cyber Security at IU University. My passion for computers and software started as far back as I can remember, driving me to constantly expand my skills in technology and security. With a strong thirst for knowledge and a natural curiosity, I’m always eager to tackle new challenges, fix complex issues, and identify potential vulnerabilities and threats.
+
+Thank you for your time—please see my certifications and lab simulations below!.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
