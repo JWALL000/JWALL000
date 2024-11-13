@@ -43,7 +43,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?logo=google /https://github.com/JWALL000/JWALL000/blob/main/Joseph%20Wall%20Google%20Cybersecurity%20Certificate.pdf)" />
 
    
 </div>
@@ -51,7 +50,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?style=for-the-badge&logo=google&logoColor=white)](Joseph Wall Google Cybersecurity Certificate.pdf)" />
+
+
+    
 </div>
 
 ## Projects
