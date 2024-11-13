@@ -1,5 +1,5 @@
 # Hello, I'm Joseph 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joseph-wall-489982329/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 👋 Welcome to my GitHub portfolio! I am currently pursuing a bachelor's degree in Cyber Security at IU University. My passion for computers and software started as far back as I can remember, driving me to constantly expand my skills in technology and security. With a strong thirst for knowledge and a natural curiosity, I’m always eager to tackle new challenges, fix complex issues, and identify potential vulnerabilities and threats.
