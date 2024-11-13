@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?logo=google(file:///C:/Users/35383/Desktop/J.W/Joseph%20Wall%20Google%20Cybersecurity%20Certificate.pdf)" />
+  <img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?logo=google /https://github.com/JWALL000/JWALL000/blob/main/Joseph%20Wall%20Google%20Cybersecurity%20Certificate.pdf)" />
 
    
 </div>
