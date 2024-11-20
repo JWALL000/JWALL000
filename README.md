@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Browser Forensics - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-">Cryptominer</a>
+| Browser Forensics - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-/blob/main/Browser%20Forensics.PNG">Cryptominer</a>
 
 ## Tools
 
