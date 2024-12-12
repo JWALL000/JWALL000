@@ -16,6 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Browser Forensics - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
 | Security Operations - Blue Team Labs Online   |   <a href="https://github.com/JWALL000/Projects-Labs-2/blob/main/README.md">Security Operations</a>
+| Phishing Analysis - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
+
 
 
 
