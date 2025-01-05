@@ -39,8 +39,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <a href="https://github.com/JWALL000/Home-Lab---Setup-"><img src=https://img.shields.io/badge/-Kibana-1699A?&style=for-the-badge&logo=Kibana&logoColor=white />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://github.com/JWALL000/Home-Lab---Setup-"> <img src="https://img.shields.io/badge/-Elasticsearch-000000?&style=for-the-badge&logo=&logoColor=white" />
+    <a href="https://github.com/JWALL000/Home-Lab---Setup-"> <img src="https://img.shields.io/badge/-Kibana-900000?&style=for-the-badge&logo=&logoColor=white" />
+    <a href="https://github.com/JWALL000/Home-Lab---Setup-"> <img src="https://img.shields.io/badge/-Logstash-554545?&style=for-the-badge&logo=&logoColor=white" />
 
    
 </div>
