@@ -54,8 +54,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
     
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+| Projects                                      |                            |
+|-----------------------------------------------|----------------------------|
+| Browser Forensics - Blue Team Labs Online     |   
+| Security Operations - Blue Team Labs Online   |   
+| Phishing Analysis - Blue Team Labs Online     |   
+| Home Lab on Premise - Setup                   |   
