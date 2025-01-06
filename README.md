@@ -34,7 +34,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -46,7 +45,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://github.com/JWALL000/JWALL000/blob/main/Joseph%20Wall%20Google%20Cybersecurity%20Certificate.pdf"><img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?style=for-the-badge&logo=google&logoColor=white"/></a>
 
 
