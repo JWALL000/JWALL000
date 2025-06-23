@@ -50,6 +50,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/JWALL000/JWALL000/blob/main/Joseph%20Wall%20Google%20Cybersecurity%20Certificate.pdf"><img src="https://img.shields.io/badge/Google%20Cyber%20Security-Certificate-blue?style=for-the-badge&logo=google&logoColor=white"/></a>
 <a href="https://github.com/JWALL000/Sec-/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
 
+## University 
+<div> 
+<img src="https://img.shields.io/badge/-IU-University-of-Applied-Sciences-900000?&style=for-the-badge&logo=&logoColor=white"/></a>
+
 
 
     
