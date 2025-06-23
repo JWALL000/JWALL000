@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Browser Forensics - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
-| Security Operations - Blue Team Labs Online   |   <a href="https://github.com/JWALL000/Projects-Labs-2/blob/main/README.md">Security Operations</a>
+| Security Operations - Blue Team Labs Online   |    <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
 | Phishing Analysis - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
 | Home Lab on Premise - Setup & Generating Brute Force Telemetry |   <a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md">Home Lab on Premise</a>
 | Microsoft Sentinel - Setting Up a Honeypot    |    <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md">Microsoft Sentinel Project</a>
@@ -55,7 +55,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Projects                                      |                            |
 |-----------------------------------------------|----------------------------|
-| Browser Forensics - Blue Team Labs Online     |   
-| Security Operations - Blue Team Labs Online   |   
-| Phishing Analysis - Blue Team Labs Online     |   
-| Home Lab on Premise - Setup                   |   
+| Browser Forensics - Blue Team Labs Online     |  <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
+| Security Operations - Blue Team Labs Online   |  <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
+| Phishing Analysis - Blue Team Labs Online     |  <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
+| Home Lab on Premise - Setup                   |  <a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md">Home Lab on Premise</a>
+| Microsft Sentinel Project - Honeypot          |  <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md">Microsoft Sentinel Project</a>
