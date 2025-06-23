@@ -14,11 +14,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Browser Forensics - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
-| Security Operations - Blue Team Labs Online   |    <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
-| Phishing Analysis - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
-| Home Lab on Premise - Setup & Generating Brute Force Telemetry |   <a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md">Home Lab on Premise</a>
-| Microsoft Sentinel - Setting Up a Honeypot    |    <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md">Microsoft Sentinel Project</a>
+| Browser Forensics                             |   <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
+| Security Operations                           |   <a href="https://github.com/JWALL000/Projects-Labs-/tree/main">Cryptominer</a>
+| Phishing Analysis                             |   <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
+| Networking, Log Analysis and SIEM Skills      |   <a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md">Home Lab on Premise</a>
+| SIEM Microsoft Sentinel                       |   <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md">Microsoft Sentinel Project</a>
+
 
 
 
