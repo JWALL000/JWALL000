@@ -36,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <a href="https://github.com/JWALL000/Home-Lab---Setup-"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md"><img src="https://img.shields.io/badge/-Windows_Event_Logs-8A2BE2?&style=for-the-badge&logo=&logoColor=white"/></a>
-<a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md"><img src="https://img.shields.io/badge/-Sysmon-cccccc2?&style=for-the-badge&logo=&logoColor=white"/></a>
+<a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md"><img src="https://img.shields.io/badge/-Sysmon-ccccc2?&style=for-the-badge&logo=&logoColor=white"/></a>
 
 ### SIEM
 
