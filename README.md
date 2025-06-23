@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## University 
 <div> 
-<img src="https://img.shields.io/badge/-IU%20University-000000?&style=for-the-badge&logo=&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-IU%20University%20of%20Applied%20Sciences-000000?&style=for-the-badge&logo=&logoColor=white"/></a>
 
 
 
