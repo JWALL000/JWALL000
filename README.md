@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Operations - Blue Team Labs Online   |   <a href="https://github.com/JWALL000/Projects-Labs-2/blob/main/README.md">Security Operations</a>
 | Phishing Analysis - Blue Team Labs Online     |   <a href="https://github.com/JWALL000/Projects-Labs-3">Phishing Analysis</a>
 | Home Lab on Premise - Setup & Generating Brute Force Telemetry |   <a href="https://github.com/JWALL000/Home-Lab---Setup-/blob/main/README.md">Home Lab on Premise</a>
-
+| Microsoft Sentinel - Setting Up a Honeypot    |    <a href="https://github.com/JWALL000/Microsoft-Sentinel-Project-/blob/main/README.md">Microsoft Sentinel Project</a>
 
 
 
