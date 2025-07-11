@@ -30,7 +30,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <a href="https://github.com/JWALL000/Projects-Labs-2/blob/main/README.md"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/></a>
-     <a href="https://github.com/JWALL000/Snort-Project"><img src="https://img.shields.io/badge/-Snort-2679A8?-&style=for-the-badge&logo=Snort&logoColor=white"/></a>
+     <a href="https://github.com/JWALL000/Snort-Project"><img src="https://img.shields.io/badge/-Snort-#FFC0CB?-&style=for-the-badge&logo=Snort&logoColor=white"/></a>
 </div>
 
 ### Endpoint
