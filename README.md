@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <a href="https://github.com/JWALL000/Projects-Labs-2/blob/main/README.md"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/></a>
      <a href="https://github.com/JWALL000/Snort-Project"><img src="https://img.shields.io/badge/-Snort-ea9999?-&style=for-the-badge&logo=Snort&logoColor=white"/></a>
-     <a href="https://github.com/JWALL000/Nessus"><img src="https://img.shields.io/badge/-Nessus-ea1000?-&style=for-the-badge&logo=Snort&logoColor=white"/></a>
+     <a href="https://github.com/JWALL000/Nessus"><img src="https://img.shields.io/badge/-Nessus-10000?-&style=for-the-badge&logo=Snort&logoColor=white"/></a>
 </div>
 
 ## Endpoint
